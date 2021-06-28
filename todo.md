@@ -1,0 +1,2 @@
+- [ ] use page.goto to switch pages without resetting math render settings
+- [ ] use puppeteer to get html and send to getData: https://pptr.dev/#?product=Puppeteer&version=v5.5.0&show=api-pagecontent

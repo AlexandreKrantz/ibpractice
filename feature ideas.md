@@ -1,0 +1,3 @@
+- For each topic, show recent session results streak (red and green dots) and show date when last practiced.
+- You can click on each dot to view the question
+- You should be able to expand practice history and see all your dots in a calendar-like format.
